@@ -15,3 +15,5 @@ A responsive and modern real estate website built to help users easily search, b
 
 Frontend: HTML, CSS, JavaScript 
 
+
+![walthome.png](https://github.com/Shwta23/walthome/blob/main/images/walthome.png)
